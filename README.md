@@ -15,7 +15,7 @@
 * Mentor others
 * Donate directly to open source projects
 
-Link to register 🤩 [Here](https://hacktoberfest.digitalocean.com/)
+Link to register 🤩 click [Here](https://hacktoberfest.digitalocean.com/)
 
 # RULES 😎
 
