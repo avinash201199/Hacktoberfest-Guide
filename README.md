@@ -37,7 +37,7 @@ Link to repo - https://github.com/avinash201199/DSA-Questions <br>
 
 ### 2.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection) 🧑
 
-This repository contains collection of awesome portfolio's , add your own portfolio 🤩<br>
+This repository contains collection of awesome portfolio's , add your own portfolio.<br>
 Link to repo - https://github.com/avinash201199/Portfolio-Collection
 
 ### 3.Repository [Competition-List](https://github.com/avinash201199/Competitions-and-Programs-List) 🏆
