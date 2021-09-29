@@ -15,10 +15,12 @@
 * Mentor others
 * Donate directly to open source projects
 
-# RULES
+# RULES 😎
 
 * Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest.
 * You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+* To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+* This year, the first 50,000 participants can earn a T-shirt.
 
 
 
