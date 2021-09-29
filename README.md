@@ -26,7 +26,7 @@ Link to register 🤩 click [Here](https://hacktoberfest.digitalocean.com/)
 
 # How to contribute ? 🥺
 
-If you are beginner and want to contribute to Hacktoberfest don't worry I will guide you . For any doubt contact me here-https://www.instagram.com/lets__code/ <br>
+If you are beginner and want to contribute to Hacktoberfest but don't worry I will guide you . For any doubt contact me here-https://www.instagram.com/lets__code/ <br>
 
 I have created several Repositories and Task, where you can easily contribute .
 
@@ -45,6 +45,9 @@ Link to repo - https://github.com/avinash201199/Portfolio-Collection
 Having the knowledge of number of opportunities helps us to be one step ahead in life. This repository contains list of opportunities in which college students can enroll.If any competition is missing then add it .<br>
 Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
 
+<hr>
 
+Follow me on github for more updates - https://github.com/avinash201199
+Instagram page - https://www.instagram.com/lets__code/
 
 
