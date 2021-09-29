@@ -26,6 +26,9 @@ Link to register 🤩 click [Here](https://hacktoberfest.digitalocean.com/)
 
 # How to contribute ? 🥺
 
+If you are beginner and want to contribute to Hacktoberfest don't worry I will guide you . For any doubt contact me here-https://www.instagram.com/lets__code/ .
+
+
 
 
 
