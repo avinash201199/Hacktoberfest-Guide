@@ -48,6 +48,6 @@ Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
 <hr>
 
 📌 Follow me on github for more updates - https://github.com/avinash201199 <br>
-📍 Instagram page - https://www.instagram.com/lets__code/
+📌 Instagram page - https://www.instagram.com/lets__code/
 
 
