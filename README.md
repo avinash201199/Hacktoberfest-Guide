@@ -30,17 +30,17 @@ If you are beginner and want to contribute to Hacktoberfest don't worry I will g
 
 I have created several Repositories and Task, where you can easily contribute .
 
-### 1.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions)
+### 1.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions) 	💻
 
 Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
 Link to repo - https://github.com/avinash201199/DSA-Questions <br>
 
-### 2.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)
+### 2.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection) 🧑
 
 This repository contains collection of awesome portfolio's , add your own portfolio 🤩<br>
 Link to repo - https://github.com/avinash201199/Portfolio-Collection
 
-### 3.Repository [Competition-List](https://github.com/avinash201199/Competitions-and-Programs-List)
+### 3.Repository [Competition-List](https://github.com/avinash201199/Competitions-and-Programs-List) 🏆
 
 Having the knowledge of number of opportunities helps us to be one step ahead in life. This repository contains list of opportunities in which college students can enroll.If any competition is missing then add it .<br>
 Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
