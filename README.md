@@ -45,6 +45,12 @@ Link to repo - https://github.com/avinash201199/Portfolio-Collection
 Having the knowledge of number of opportunities helps us to be one step ahead in life. This repository contains list of opportunities in which college students can enroll.If any competition is missing then add it .<br>
 Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
 
+
+### 4.Repository [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates) 🏆
+
+This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge.<br>
+Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
+
 <hr>
 
 📌 Follow me on github for more updates - https://github.com/avinash201199 <br>
