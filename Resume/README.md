@@ -1,5 +1,5 @@
 # Resume Collection.
 
-### How to add ? 	:trollface:
+### How to add ? 	🤩
 
-* Add your resume with file name as yours
+* Add your resume and the file name should be your full name.
