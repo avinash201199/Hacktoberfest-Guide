@@ -30,6 +30,10 @@ If you are beginner and want to contribute to Hacktoberfest but don't worry I wi
 
 I have created several Repositories and Task, where you can easily contribute .
 
+## Task1 [Add your resume](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume)
+
+For beginner contribution you can add your resume this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume)
+
 ### 1.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions) 	💻
 
 Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
