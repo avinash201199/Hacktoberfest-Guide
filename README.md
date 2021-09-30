@@ -32,7 +32,7 @@ I have created several Repositories and Task, where you can easily contribute .
 
 ## Task1 [Add your resume](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume)
 
-For beginners you can add your resume this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume) for easy contribution
+For beginners you can add your resume to this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume) for easy contribution
 
 ### 1.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions) 	💻
 
