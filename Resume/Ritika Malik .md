@@ -1,6 +1,9 @@
-# RITIKA MALIK
-                                                                                                                                                                                                    KOTA, RAJASTHANEmail- ritikamalik100102@gmail.com  Mobile: 8529862110
-Linkedin:  https://www.linkedin.com/in/ritika-malik-8859a31b7     GitHub: https://github.com/ritika168
+# RITIKA MALIK 
+Kota, Rajasthan  
+Email- ritikamalik100102@gmail.com   
+Mobile: 8529862110  
+Linkedin:  https://www.linkedin.com/in/ritika-malik-8859a31b7   
+GitHub: https://github.com/ritika168   
 CURRENTLY A SOPHOMORE
  
 
@@ -29,7 +32,7 @@ Description: A game using sprites for goblin and our main player along with scor
 ToolS Used: Pygame  
 
 
-## CERTIFICATE:   
+## CERTIFICATES:   
 •	Build a Face Recognition Application Using Python    
                          GUVI Geek Network, IITM Research Park (Issued- April 2021)  
 •	3rd position in Mindwrap Code-a-thon (Organized by IEEE SCT SB)  
@@ -40,13 +43,13 @@ ToolS Used: Pygame
                          Gold Badge (5 Star) – 30 Days of Code Challenge   
                          Silver Badge (4 Star) – C programming language  
                          Bronze Badge (5 Star) – C++ programming language    
-                         CODECHEF-    
+* CODECHEF-    
                           3 Star Coder  
                           Rating- 1631  
 
 ## EXTRA CURRICULAR ACTIVITIES  
 
-•	Community member of CODECHEF<MUST> Chapter   
+•	Community member of CODECHEF(MUST) Chapter   
 •	Team Member of Penumbra (Public Speaking Society)  
 •	Member of IEEE  
 •	Member of IEEE WIE  
