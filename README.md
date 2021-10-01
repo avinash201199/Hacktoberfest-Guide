@@ -1,4 +1,4 @@
-# Beginner's guide to Hacktoberfest 😍
+# Beginner's Guide to Hacktoberfest 😍
 ![hack](https://user-images.githubusercontent.com/61057666/135253939-df4c0569-9ea6-49ae-b53c-63c797933b30.png)
 
 <hr>
@@ -24,7 +24,7 @@ Link to register 🤩 click [Here](https://hacktoberfest.digitalocean.com/)
 * To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 * This year, the first 50,000 participants can earn a T-shirt.
 
-# How to contribute ? 🥺
+# How to Contribute ? 🥺
 
 If you are beginner and want to contribute to Hacktoberfest but don't worry I will guide you . For any doubt contact me here-https://www.instagram.com/lets__code/ <br>
 
@@ -61,4 +61,4 @@ Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 📌 Instagram page - https://www.instagram.com/lets__code/
 
 
-Thank you so much guys! Have a nice day! :)
+Thank you so much guys! Have a Nice Day! :)
