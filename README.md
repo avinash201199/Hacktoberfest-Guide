@@ -58,7 +58,7 @@ Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 ### 5.Repository [Python-Projects](https://github.com/avinash201199/Python-projects-) 🏆
 
 This repository contains list of pyhton projects to contribute or you can add your project to contribute<br>
-Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
+Link to repo - https://github.com/avinash201199/Python-projects-
 
 
 <hr>
