@@ -55,6 +55,12 @@ Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
 This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge.<br>
 Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 
+### 5.Repository [Python-Projects](https://github.com/avinash201199/Python-projects-) 🏆
+
+This repository contains list of pyhton projects to contribute or you can add your project to contribute<br>
+Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
+
+
 <hr>
 
 📌 Follow me on github for more updates - https://github.com/avinash201199 <br>
