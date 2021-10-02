@@ -34,28 +34,33 @@ I have created several Repositories and Task, where you can easily contribute .
 
 For beginners you can add your resume to this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume) for easy contribution
 
-### 1.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions) 	💻
+### 1.Repository [To-Do-List](https://github.com/avinash201199/To-Do-List) 	💻
 
 Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
 Link to repo - https://github.com/avinash201199/DSA-Questions <br>
 
-### 2.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection) 🧑
+### 2.Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions) 	💻
+
+Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
+Link to repo - https://github.com/avinash201199/DSA-Questions <br>
+
+### 3.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection) 🧑
 
 This repository contains collection of awesome portfolio's , add your own portfolio.<br>
 Link to repo - https://github.com/avinash201199/Portfolio-Collection
 
-### 3.Repository [Competition-List](https://github.com/avinash201199/Competitions-and-Programs-List) 🏆
+### 4.Repository [Competition-List](https://github.com/avinash201199/Competitions-and-Programs-List) 🏆
 
 Having the knowledge of number of opportunities helps us to be one step ahead in life. This repository contains list of opportunities in which college students can enroll.If any competition is missing then add it .<br>
 Link to repo - https://github.com/avinash201199/Competitions-and-Programs-List
 
 
-### 4.Repository [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates) 🏆
+### 5.Repository [Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates) 🏆
 
 This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge.<br>
 Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 
-### 5.Repository [Python-Projects](https://github.com/avinash201199/Python-projects-) 🏆
+### 6.Repository [Python-Projects](https://github.com/avinash201199/Python-projects-) 🏆
 
 This repository contains list of pyhton projects to contribute or you can add your project to contribute<br>
 Link to repo - https://github.com/avinash201199/Python-projects-
