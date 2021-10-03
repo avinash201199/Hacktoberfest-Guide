@@ -36,8 +36,8 @@ For beginners, you can add your Resume to this [folder](https://github.com/avina
 
 ### 1.Repository [To-Do-List](https://github.com/avinash201199/To-Do-List) 	💻
 
-Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
-Link to repo - https://github.com/avinash201199/DSA-Questions <br>
+Make any suitable corrections/improvements in the code base of the To-Do List repository.
+Link to repo - https://github.com/avinash201199/To-Do-List) <br>
 
 ### 2.Repository [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection) 🧑
 
@@ -60,11 +60,16 @@ Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 This repository contains list of pyhton projects to contribute or you can add your project to contribute<br>
 Link to repo - https://github.com/avinash201199/Python-projects-
 
+### 6. Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions)  🏆
+
+Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
+Link to repo - https://github.com/avinash201199/DSA-Questions <br>
+
 
 <hr>
 
-📌 Follow me on github for more updates - https://github.com/avinash201199 <br>
-📌 Instagram page - https://www.instagram.com/lets__code/
+📌 Follow me on GitHub for more Updates - https://github.com/avinash201199 <br>
+📌 Instagram Page Handle - https://www.instagram.com/lets__code/
 
 
 Thank you so much guys! Have a Nice Day! :)
