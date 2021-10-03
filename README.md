@@ -15,7 +15,7 @@
 * Mentor others
 * Donate directly to open source projects
 
-Link to register 🤩 click [Here](https://hacktoberfest.digitalocean.com/)
+Link to register 🤩 [Click Here](https://hacktoberfest.digitalocean.com/)
 
 # RULES 😎
 
@@ -30,9 +30,9 @@ If you are beginner and want to contribute to Hacktoberfest but don't worry I wi
 
 I have created several Repositories and Task, where you can easily contribute .
 
-## Task1 [Add your resume](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume)
+## Task - 01 [Add your Resume](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume)
 
-For beginners you can add your resume to this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume) for easy contribution
+For beginners, you can add your Resume to this [folder](https://github.com/avinash201199/Hacktoberfest-Guide/tree/main/Resume) for easy contribution.
 
 ### 1.Repository [To-Do-List](https://github.com/avinash201199/To-Do-List) 	💻
 
