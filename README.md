@@ -62,7 +62,7 @@ Link to repo - https://github.com/avinash201199/Python-projects-
 
 ### 6. Repository [My gallery Website](https://github.com/avinash201199/My-Gallery-4u)  🏆
 
-Simple Photography Website needs lot's of changes<br>
+Simple Photography Website, needs lot's of changes.<br>
 Link to repo - https://github.com/avinash201199/My-Gallery-4u <br>
 
 
