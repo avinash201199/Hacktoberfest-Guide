@@ -60,10 +60,10 @@ Link to repo - https://github.com/avinash201199/Free-courses-with-Certificates
 This repository contains list of pyhton projects to contribute or you can add your project to contribute<br>
 Link to repo - https://github.com/avinash201199/Python-projects-
 
-### 6. Repository [DSA-Questions](https://github.com/avinash201199/DSA-Questions)  🏆
+### 6. Repository [My gallery Website](https://github.com/avinash201199/My-Gallery-4u)  🏆
 
-Add any DSA question with it's solution to topic wise folders with respective language folder.<br>
-Link to repo - https://github.com/avinash201199/DSA-Questions <br>
+Simple Photography Website needs lot's of changes<br>
+Link to repo - https://github.com/avinash201199/My-Gallery-4u <br>
 
 
 <hr>
