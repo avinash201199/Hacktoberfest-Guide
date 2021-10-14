@@ -37,10 +37,10 @@ So, let's get started. Let's assume you're a developer who'll participate in thi
 ---
 ### **Uploading your project in GitHub account**
 
-Created your project in local computer? Let's upload into your github account.
+Created your project in local computer? Let's upload it into your github account.
 
 1. Click on New button in the top-right corner of your account
-2. Put some name for your repo. It'll be unique for your account. Make sure it'll be the name of your project. Don't name it as Elon Musk's son ! :laugh:
+2. Put some name for your repo. It'll be unique for your account. Make sure it'll be the name of your project. Don't name it as Elon Musk's son ! 😆
 3. Click on Add File button & select Upload existing file from dropdown.
 4. Drag & Drop the directory into the space or else Browse through the computer to upload full directory. Don't upload files individually.
 5. Click on Commit changes button to upload & save repo.
@@ -54,7 +54,7 @@ Created your project in local computer? Let's upload into your github account.
 
 1. Go to search bar of GitHub
 2. Search for hacktoberfest2021
-3. Chose any one of them. 
+3. Choose any one of them. 
 
 My Suggestion: If you're a fresher, just search for the repo having some simple programs. Search with the required language which you're more familiar.
 
