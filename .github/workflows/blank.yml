@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Greeter"
-        uses: avinash201199/greeter@V1
+        uses: avinash201199/Hacktoberfest-Guide@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           message: Welcome to the **Greeter** repo on **Github**.
