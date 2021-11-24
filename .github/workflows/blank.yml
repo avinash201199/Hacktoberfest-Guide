@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Greet the contributor'
-        uses: avinash201199/Hacktoberfest-Guide@v1.2
+        uses: avinash201199/Hacktoberfest-Guide
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: 'Hello there, thanks for opening your first issue. We welcome you to the community!'
