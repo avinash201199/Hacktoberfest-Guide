@@ -1,12 +1,18 @@
-name: "Issue Greeter"
-on: [issues]
+name: 'Welcome New Contributors'
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
 
 jobs:
-  issue-greeter:
+  welcome-new-contributor:
     runs-on: ubuntu-latest
     steps:
-      - name: "Greeter"
-        uses: avinash201199/Hacktoberfest-Guide@v1
+      - name: 'Greet the contributor'
+        uses: avinash201199/Hacktoberfest-Guide@v1.2
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          message: Welcome to the **Greeter** repo on **Github**.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: 'Hello there, thanks for opening your first issue. We welcome you to the community!'
+          pr-message: 'Hello there, thanks for opening your first Pull Request. Someone will review it soon.'
