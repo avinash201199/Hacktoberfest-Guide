@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Greet the contributor'
-        uses: avinash201199/Hacktoberfest-Guide@ref
+        uses: action/blank.yml@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: 'Hello there, thanks for opening your first issue. We welcome you to the community!'
