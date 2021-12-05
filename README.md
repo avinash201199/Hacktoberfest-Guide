@@ -72,4 +72,4 @@ Link to repo - https://github.com/avinash201199/My-Gallery-4u <br>
 📌 Instagram Page Handle - https://www.instagram.com/lets__code/
 
 
-Thank you so much guys! Have a Nice Day! :)
+Thank you so much guys!
